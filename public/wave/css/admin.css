@@ -1,0 +1,23 @@
+.voyager .navbar.navbar-default .navbar-header .navbar-brand, .voyager .navbar .navbar-header .navbar-brand{
+    background: #000000;
+
+}
+.voyager .side-menu.sidebar-inverse .navbar  {
+    background-color: #ffffff;
+
+}
+
+.voyager .side-menu.sidebar-inverse{
+    background: #ffffff;
+}
+
+
+.voyager .side-menu.sidebar-inverse .navbar li.active>a
+{
+    color :black;
+}
+
+.voyager .navbar, .voyager .navbar.navbar-default{
+    background: #000000;
+    height: 60px;
+}
